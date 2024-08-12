@@ -3,10 +3,10 @@ Royal Bank of Canada and its subsidiary City National Bank have provided nearly 
 
 Below is a map of the oil and gas wells and facilities the bank finances.
 
-<div class="map-container">
+<div>
   <iframe
     src="maptestv37.html"
-    width="100%"
+    width="900px"
     height="400px"
   ></iframe>
 </div>
