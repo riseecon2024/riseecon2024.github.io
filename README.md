@@ -23,8 +23,8 @@ Below is a map of the oil and gas wells and facilities the bank finances.
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
-  height: 100%;
+  width: 100vw;
+  height: 56.25vh;
 }
 </style>
 RBC provided $2.376 Billion to California Resources Corporation, which owns 11.7% of all oil wells in California. Of California Resource Corporation’s 24,742 oil wells, 64% are in BIPOC neighborhoods. Twenty-four percent are in low to moderate income neighborhoods. The majority of which (16,205) are in the Bakersfield area. Sixty-eight percent, or 8,598, of wells in Bakersfield are active or idle, and the majority of these active or idle wells (72%) are in Bakersfield’s BIPOC neighborhoods. Of particular concern is that 89% of RBC-funded California Resource Corporation’s new wells in Bakersfield are located in BIPOC neighborhoods. Seventy percent of all new wells in the state were in BIPOC neighborhoods.
