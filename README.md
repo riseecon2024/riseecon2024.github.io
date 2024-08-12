@@ -6,8 +6,8 @@ Below is a map of the oil and gas wells and facilities the bank finances.
 <div>
   <iframe
     src="maptestv37.html"
-    width="900px"
-    height="400px"
+    width="600px"
+    height="900px"
   ></iframe>
 </div>
 
