@@ -1,7 +1,7 @@
 # Oil and Gas Wells, Facilities financed by Royal Bank of Canada
 Royal Bank of Canada and its subsidiary City National Bank have provided nearly $68 billion in financing to 8 companies that are among the largest greenhouse gas emitters, oil and gas well operators, and refinery owners in the state. City National Bank is also one of the worst redlining banks in the state. While there are existing campaigns against the top four largest banks, Rise Economy is focusing on a mid-sized bank which is also terrible on fossil fuel financing as we may have more bargaining power with a smaller sized bank. We intend to meet with the banks in September, where we will present a set of demands in hopes of reaching a Community Benefits Agreement.
 
-Below is a map of the oil and gass wells and facilities the bank finances.
+Below is a map of the oil and gas wells and facilities the bank finances.
 
 <iframe src="maptestv37.html" height="700" width="1000"></iframe>
 
