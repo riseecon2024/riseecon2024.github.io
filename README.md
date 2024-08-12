@@ -18,6 +18,8 @@ RBC also finances companies that operate 63 refineries, resulting in 33.4 millio
 
 Refineries like the Martinez refinery subject its local residents to pollution of toxic metals and large fires releasing more than 200,000 pounds of renewable diesel fuel and smoke that led to a multi-agency investigation and major penalty from Bay Area air regulators. 
 
+# Demands. We want Royal Bank of Canada and City National Bank to commit to a Community Benefits Agreement that does the following:
+
 <strong>Stop funding fossil fuels</strong>
 
  - Create a plan and timeline for phase-outs of financing of the dirtiest fossil fuels. Work towards an end of financing of all new fossil fuel extraction activities.
