@@ -16,7 +16,7 @@ Below is a map of the oil and gas wells and facilities the bank finances.
 .map-container {
   position: relative;
   width: 100%;
-  padding-top: 56.25%; /* 16:9 Aspect Ratio */
+  padding-top: 100%;
 }
 
 .map-container iframe {
