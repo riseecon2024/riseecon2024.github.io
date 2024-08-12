@@ -19,17 +19,17 @@ RBC also finances companies that operate 63 refineries, resulting in 33.4 millio
 Refineries like the Martinez refinery subject its local residents to pollution of toxic metals and large fires releasing more than 200,000 pounds of renewable diesel fuel and smoke that led to a multi-agency investigation and major penalty from Bay Area air regulators. 
 
 We want Royal Bank of Canada and City National Bank to commit to a Community Benefits Agreement that does the following:
-Stop funding fossil fuels:
-Create a plan and timeline for phase-outs of financing of the dirtiest fossil fuels. Work towards an end of financing of all new fossil fuel extraction activities.
-Repair the harm caused by fossil fuel financing:
-Respect Indigenous rights and BIPOC communities (known as Free, Prior and Informed Consent) in all fossil fuel financing decisions.
-Ensure that oil and gas well operators have plugged or have plans for plugging all idle wells, and provide financing if necessary, for plugging and remediation of the oil well fields.
-Support small businesses across the state seeking to transition their operations to cleaner operations.
-Support efforts to transition local workforces dependent on declining industries to good jobs in green economies, technologies, and sectors
-Ensure borrowers have adequate transition plans that are not greenwashing. 
-Repair the harm caused by discriminatory banking practices:
-Invest in municipalities’ community development activities, where cities rely on revenue from fossil fuel companies to fund community development.
-Promote homeownership and small business ownership for BIPOC households in California.
-Ensure no redlining throughout our state; address redlining concerns in all regions of California.
-Develop policies to ensure that RBC, CNB and their clients do not engage in bluelining - denying credit or charging more to BIPOC households based on perceptions of a neighborhood's vulnerability to climate change impacts.
+<strong>Stop funding fossil fuels </strong>
+ - Create a plan and timeline for phase-outs of financing of the dirtiest fossil fuels. Work towards an end of financing of all new fossil fuel extraction activities.
+<strong> Repair the harm caused by fossil fuel financing: </strong>
+ - Respect Indigenous rights and BIPOC communities (known as Free, Prior and Informed Consent) in all fossil fuel financing decisions.
+ - Ensure that oil and gas well operators have plugged or have plans for plugging all idle wells, and provide financing if necessary, for plugging and remediation of the oil well fields.
+ - Support small businesses across the state seeking to transition their operations to cleaner operations.
+ - Support efforts to transition local workforces dependent on declining industries to good jobs in green economies, technologies, and sectors
+ - Ensure borrowers have adequate transition plans that are not greenwashing. 
+<strong> Repair the harm caused by discriminatory banking practices: </strong>
+ - Invest in municipalities’ community development activities, where cities rely on revenue from fossil fuel companies to fund community development.
+ - Promote homeownership and small business ownership for BIPOC households in California.
+ - Ensure no redlining throughout our state; address redlining concerns in all regions of California.
+ - Develop policies to ensure that RBC, CNB and their clients do not engage in bluelining - denying credit or charging more to BIPOC households based on perceptions of a neighborhood's vulnerability to climate change impacts.
 
