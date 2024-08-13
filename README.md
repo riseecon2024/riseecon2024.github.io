@@ -3,28 +3,16 @@ Royal Bank of Canada and its subsidiary City National Bank have provided nearly 
 
 Below is a map of the oil and gas wells and facilities the bank finances.
 
-<div class="iframe-container">
-    <iframe src="/maptestv37.html" frameborder="0" allowfullscreen></iframe></div>
-   
-</body>
-<style>
-    .iframe-container {
-        width: 100%;
+<div style="width: 100%;
         height: 0;
         padding-bottom: 56.25%;
-        overflow: hidden;
-    }
-
-    .iframe-container iframe {
-        position: absolute;
+        overflow: hidden;">
+    <iframe src="/maptestv37.html" frameborder="0" allowfullscreen style="position: absolute;
         top: 0;
         left: 0;
         width: 100%;
         height: 100%;
-        bottom: 0;
-    }
-
-</style>
+        bottom: 0;"></iframe></div>    
 
 RBC provided $2.376 Billion to California Resources Corporation, which owns 11.7% of all oil wells in California. Of California Resource Corporation’s 24,742 oil wells, 64% are in BIPOC neighborhoods. Twenty-four percent are in low to moderate income neighborhoods. The majority of which (16,205) are in the Bakersfield area. Sixty-eight percent, or 8,598, of wells in Bakersfield are active or idle, and the majority of these active or idle wells (72%) are in Bakersfield’s BIPOC neighborhoods. Of particular concern is that 89% of RBC-funded California Resource Corporation’s new wells in Bakersfield are located in BIPOC neighborhoods. Seventy percent of all new wells in the state were in BIPOC neighborhoods.
 
