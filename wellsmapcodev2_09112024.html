@@ -267,7 +267,7 @@ map.on('mousemove', 'csv-points-layer', function (e) {
     const ghgQuantityFormatted = feature.properties['GHG QUANTITY'].toLocaleString();
     // Set the hover popup content
     hoverPopup.setLngLat(e.lngLat)
-      .setHTML(`<strong>Facility Name:</strong> ${feature.properties['FACILITY NAME']}<br> <strong>Owner: </strong>${feature.properties['PARENT COMPANIES']}<br><br> <i> This facility emitted <strong>${ghgQuantityFormatted}</strong> metric tons of CO2 greenhouse gas emissions in 2021.`)
+      .setHTML(`<strong>Facility Name:</strong> ${feature.properties['FACILITY NAME']}<br> <strong>Owner: </strong>${feature.properties['PARENT COMPANIES']}<br><br> <i> This facility reported emitting <strong>${ghgQuantityFormatted}</strong> metric tons of CO2 greenhouse gas emissions in 2021.`)
       .addTo(map);
   }
 });
