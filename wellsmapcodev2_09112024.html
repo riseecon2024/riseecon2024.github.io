@@ -203,10 +203,10 @@
         paint: {
           'circle-radius': [
             'case',
-            ['==', ['get', 'WellStatus'], 'Active'], 6,
+            ['==', ['get', 'WellStatus'], 'Active'], 5,
             ['==', ['get', 'WellStatus'], 'Idle'], 4,
-            ['==', ['get', 'WellStatus'], 'New'], 2,
-            ['==', ['get', 'WellStatus'], 'Plugged'], 1,
+            ['==', ['get', 'WellStatus'], 'New'], 3,
+            ['==', ['get', 'WellStatus'], 'Plugged'], 2,
             3
           ],
           'circle-stroke-width': 0.2,
@@ -361,7 +361,7 @@ map.on('click', 'csv-points-layer', function (e) {
     New well: ${statusCounts['New']}
   </div>
   <div>
-    <span style="background-color: #fafafa; border: 0.2px solid #000000; width: 10px; height: 10px; display: inline-block; border-radius:50%; margin-right: 5px;"></span>
+    <span style="background-color: #808080; border: 0.2px solid #000000; width: 10px; height: 10px; display: inline-block; border-radius:50%; margin-right: 5px;"></span>
     Plugged well: ${statusCounts['Plugged']}
   </div>
   
